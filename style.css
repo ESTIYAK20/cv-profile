@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+}
+.container{
+    background-color:aqua;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header{
+
+}
+.profile-img{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: green;
+}
+.hello{
+    float: right;
+    padding: 50px;
+}
+.hello a{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+.hello a:hover{
+    text-decoration: underline;
+    background-color: black;
+}
+.div-clr{
+    clear: both;
+}
+hr{
+    border: solid green;
+}
+#parsonal{
+
+}
+.left{
+width: 100px%;
+    float: left;
+    margin: 10px;
+}
+.rite{
+width:69%;
+float:right;
+margin: 10px;
+}
+.hi{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
